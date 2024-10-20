@@ -53,7 +53,7 @@ const App = () => {
 
   return (
     <div className="container mx-auto px-4 py-8">
-      <h1 className="text-3xl font-bold text-center mb-4">Chatbot</h1>
+      <h1 className="text-3xl font-bold text-center mb-4">Farm Trust</h1>
 
       <div className="chat-container rounded-lg shadow-md p-4">
         <ChatHistory chatHistory={chatHistory} />
